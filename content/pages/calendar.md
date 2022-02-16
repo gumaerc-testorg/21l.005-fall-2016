@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6652a5a2-ce33-007a-c991-c5fc9cb084fd
 ---
@@ -217,7 +219,7 @@ Midterm self-evaluation
 
 Classical Japan (I)
 
-*   Kan'ami, _Matsukaze_ (15th century)
+*   Kan'ami, _Matsukaze_ (15{{< sup "th" >}} century)
 *   Noh Drama
 
 Screening:
