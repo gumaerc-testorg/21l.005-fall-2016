@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fe2cb9c-0e6a-b1ca-f4a3-92a07510231a
 resourcetype: Document
 title: Sample Essay Review
 uid: b723b53d-a8d1-1ffb-7b53-3510cf0c89b8

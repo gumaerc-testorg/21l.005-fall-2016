@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fe2cb9c-0e6a-b1ca-f4a3-92a07510231a
 resourcetype: Document
 title: 'Play Review: The Wild Party by Andrew Lippa'
 uid: 14dfcba9-020c-56d9-3d30-56ac74e1244c

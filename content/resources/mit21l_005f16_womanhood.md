@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fe2cb9c-0e6a-b1ca-f4a3-92a07510231a
 resourcetype: Document
 title: "A Dynamic Womanhood: How Henrik Ibsen\u2019s A Doll House Depicts Feminism\
   \ through Changing Characterization"
