@@ -5,6 +5,7 @@ file: /courses/21l-005-introduction-to-drama-fall-2016/7f6ebbd6fd11c77ce07000534
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Euripides' Medea
 uid: 7f6ebbd6-fd11-c77c-e070-005348511e74
 ---
 A sample close reading paper on Euripides' Medea.
-

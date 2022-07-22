@@ -5,6 +5,7 @@ file: /courses/21l-005-introduction-to-drama-fall-2016/6fb3809223d380d599e2c2e61
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "A Dynamic Womanhood: How Henrik Ibsen\u2019s A Doll House Depicts Femini
 uid: 6fb38092-23d3-80d5-99e2-c2e6167892c7
 ---
 An example of student work for a writing assignment.
-

@@ -5,6 +5,7 @@ file: /courses/21l-005-introduction-to-drama-fall-2016/14dfcba9020c56d93d3056ac7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Play Review: The Wild Party by Andrew Lippa'
 uid: 14dfcba9-020c-56d9-3d30-56ac74e1244c
 ---
 A sample play review on The Wild Party by Andrew Lippa.
-
