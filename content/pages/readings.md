@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 658136d5-cb06-0e81-ea81-0b007a0364b2
 ---
@@ -204,7 +208,7 @@ No readings assigned
 
 Classical Japan (I)
 
-*   Kan'ami, _Matsukaze_ (15th century)
+*   Kan'ami, _Matsukaze_ (15{{< sup "th" >}} century)
 *   NOH drama
 
 

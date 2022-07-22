@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6fe2cb9c-0e6a-b1ca-f4a3-92a07510231a
 ---
@@ -20,7 +25,7 @@ One assigned close reading of a passage from _Trifles_, 5-pp. This will be revis
 
 This paper is worth 25% of the overall final course grade.
 
-A sample close reading paper on Euripides' [_Medea_ (PDF)]({{< baseurl >}}/resources/mit21l_005f16_medea) appears courtesy of Michelle Wilson and is used with her permission.
+A sample close reading paper on Euripides' {{% resource_link 7f6ebbd6-fd11-c77c-e070-005348511e74 "_Medea_ (PDF)" %}} appears courtesy of Michelle Wilson and is used with her permission.
 
 ### Paper 2
 
@@ -34,7 +39,7 @@ One essay review of 5 pages on a drama or performance piece you have seen this t
 
 This paper is worth 15% of the overall final course grade.
 
-A sample essay review on [Company One Theatre's](http://companyone.org/) production of Lydia Diamond’s [_Voyeurs de Venus_ (PDF)]({{< baseurl >}}/resources/mit21l_005f16_voyeurs) appears courtesy of Michelle Wilson and is used with her permission.
+A sample essay review on [Company One Theatre's](http://companyone.org/) production of Lydia Diamond’s {{% resource_link b723b53d-a8d1-1ffb-7b53-3510cf0c89b8 "_Voyeurs de Venus_ (PDF)" %}} appears courtesy of Michelle Wilson and is used with her permission.
 
 Group Presentations
 -------------------
@@ -52,6 +57,6 @@ Student Examples
 
 The following papers appear courtesy of Margaret Pan and are used with her permission.
 
-["A Dynamic Womanhood: How Henrik Ibsen's _A Doll House_ Depicts Feminism through Changing Characterization." (PDF)]({{< baseurl >}}/resources/mit21l_005f16_womanhood)
+{{% resource_link 6fb38092-23d3-80d5-99e2-c2e6167892c7 "\"A Dynamic Womanhood: How Henrik Ibsen's _A Doll House_ Depicts Feminism through Changing Characterization.\" (PDF)" %}}
 
-["Play Review: _The Wild Party_ by Andrew Lippa." (PDF)]({{< baseurl >}}/resources/mit21l_005f16_wildparty)
+{{% resource_link 14dfcba9-020c-56d9-3d30-56ac74e1244c "\"Play Review: _The Wild Party_ by Andrew Lippa.\" (PDF)" %}}
