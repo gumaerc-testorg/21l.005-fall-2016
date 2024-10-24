@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A sample play review on The Wild Party by Andrew Lippa.
-file: /courses/21l-005-introduction-to-drama-fall-2016/14dfcba9020c56d93d3056ac74e1244c_MIT21L_005F16_WildParty.pdf
+file: /ol-ocw-studio-app/courses/21l-005-introduction-to-drama-fall-2016/14dfcba9020c56d93d3056ac74e1244c_MIT21L_005F16_WildParty.pdf
 file_size: 144423
 file_type: application/pdf
 learning_resource_types:
