@@ -2,7 +2,7 @@
 content_type: resource
 description: "A sample essay review on Company One Theatre's production of Lydia Diamond\u2019\
   s Voyeurs de Venus."
-file: /ol-ocw-studio-app/courses/21l-005-introduction-to-drama-fall-2016/b723b53da8d11ffb7b533510cf0c89b8_MIT21L_005F16_Voyeurs.pdf
+file: /courses/21l-005-introduction-to-drama-fall-2016/b723b53da8d11ffb7b533510cf0c89b8_MIT21L_005F16_Voyeurs.pdf
 file_size: 198088
 file_type: application/pdf
 learning_resource_types:
