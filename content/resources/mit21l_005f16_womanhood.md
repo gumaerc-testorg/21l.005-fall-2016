@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An example of student work for a writing assignment.
-file: /courses/21l-005-introduction-to-drama-fall-2016/6fb3809223d380d599e2c2e6167892c7_MIT21L_005F16_Womanhood.pdf
+file: /ol-ocw-studio-app/courses/21l-005-introduction-to-drama-fall-2016/6fb3809223d380d599e2c2e6167892c7_MIT21L_005F16_Womanhood.pdf
 file_size: 150478
 file_type: application/pdf
 learning_resource_types:
