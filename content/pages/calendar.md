@@ -129,8 +129,8 @@ Classical Japan (I)
 
 Screening:
 
-- Μπάμπης Δερμιτζάκης. "[Aoi no ue](https://www.youtube.com/watch?v=1hI8edPXNS0)." July 5, 2013. YouTube.
-- 日本舞踊玄の会チャンネル. "[「汐　汲」～日本舞踊玄の会・玄川美喜Miki Kurokawa～](https://www.youtube.com/watch?v=3nAoh_IjbEA)." June 29, 2011. YouTube.
+- Μπάμπης Δερμιτζάκης. "{{% resource_link "8658015a-3581-4377-a787-224579defaed" "Aoi no ue" %}}." July 5, 2013. YouTube.
+- 日本舞踊玄の会チャンネル. "{{% resource_link "5c2ce93e-000e-4934-a425-caff52b5be31" "「汐　汲」～日本舞踊玄の会・玄川美喜Miki Kurokawa～" %}}." June 29, 2011. YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Written questions / comments on *Matsukaze* due
@@ -198,7 +198,7 @@ Modern / Experimental: Europe (II)
 - Cixous, "Aler á la mer" (1984)
 
 Screening and discussion of the third act of:     
-[*A Doll's House*](http://www.imdb.com/title/tt0101750/?ref_=nm_flmg_act_63). Mobil Masterpiece Theatre. Directed by David Thacker. Color, 140 min. 1992.
+{{% resource_link "d1ed8c9a-12dc-466a-8547-6280463a6390" "*A Doll's House*" %}}. Mobil Masterpiece Theatre. Directed by David Thacker. Color, 140 min. 1992.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -246,7 +246,7 @@ Twentieth Century Experiments: Performance Art
 
 - Smith, *Fires in the Mirror* (1992)
 
-Screening: [*Fires in the Mirror*](http://www.imdb.com/title/tt0106916/?ref_=fn_al_tt_1). American Playhouse. Directed by George C. Wolfe. Color, 120 mins. 1993.
+Screening: {{% resource_link "c4c9f99d-f635-4a4e-a9c3-32b6d4968f93" "*Fires in the Mirror*" %}}. American Playhouse. Directed by George C. Wolfe. Color, 120 mins. 1993.
 
 {{< tdclose >}}{{< tdopen >}}
 Written questions / comments on *Fires in the Mirror* and / or *The Other Shore* due

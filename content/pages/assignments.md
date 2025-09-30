@@ -39,7 +39,7 @@ One essay review of 5 pages on a drama or performance piece you have seen this t
 
 This paper is worth 15% of the overall final course grade.
 
-A sample essay review on [Company One Theatre's](http://companyone.org/) production of Lydia Diamond’s {{% resource_link b723b53d-a8d1-1ffb-7b53-3510cf0c89b8 "_Voyeurs de Venus_ (PDF)" %}} appears courtesy of Michelle Wilson and is used with her permission.
+A sample essay review on {{% resource_link "33f498a0-b42c-4cd8-9500-40e81640297c" "Company One Theatre's" %}} production of Lydia Diamond’s {{% resource_link b723b53d-a8d1-1ffb-7b53-3510cf0c89b8 "_Voyeurs de Venus_ (PDF)" %}} appears courtesy of Michelle Wilson and is used with her permission.
 
 Group Presentations
 -------------------

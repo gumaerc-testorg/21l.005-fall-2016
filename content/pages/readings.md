@@ -70,8 +70,7 @@ Drama: Realism, Semiotics (II)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Elam, Keir. "Foundations: Signs in the Theatre." Chapter 2 in _The Semiotics of Theatre and Drama_. 2nd edition. Routledge, 2002. ISBN: 9780415280181.[  
-](http://books.google.com/books?id=dJCYI_OpaAkC&pg=PAfrontcover)
+Elam, Keir. "Foundations: Signs in the Theatre." Chapter 2 in _The Semiotics of Theatre and Drama_. 2nd edition. Routledge, 2002. ISBN: 9780415280181.{{% resource_link "8d26da77-5b42-4e89-8afc-45b82e9df8b3" "   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +160,7 @@ Western Origins: Religious Drama (I)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[The Plays of Roswitha: Dulcitus](http://sourcebooks.fordham.edu/basis/roswitha-dulcitius.asp), Internet History Sourcebooks Project, Fordham University.
+{{% resource_link "743bbd41-9ee1-4212-a658-39f11e4cf118" "The Plays of Roswitha: Dulcitus" %}}, Internet History Sourcebooks Project, Fordham University.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +358,7 @@ Modern / Experimental: Europe (II)
 
 \[W\] ———. "A Doll's House."
 
-Cixous, Hélène. "[Aller à la mer](https://muse.jhu.edu/article/498656)." _Modern Drama_ 27, no. 4 (1984): 546–8. (Translated by Barbara Kerslake)
+Cixous, Hélène. "{{% resource_link "f4dd626f-5324-4385-b1eb-1efe29a828b5" "Aller à la mer" %}}." _Modern Drama_ 27, no. 4 (1984): 546–8. (Translated by Barbara Kerslake)
 
 
 {{< tdclose >}}
